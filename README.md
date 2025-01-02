@@ -2,7 +2,7 @@
 - I’m interested in learning
 - I’m currently learning NoSQL
 - You can reach me at rssgksk1995@gmail.com
-- My recent works:
+- My recent work:
   - Fund Tracker App: https://fund-analysis.netlify.app/
   - User Management App: https://dreamy-aryabhata-956e4c.netlify.app/
   - Covid Tracker App: https://covid-list.netlify.app/
